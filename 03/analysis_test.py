@@ -1,5 +1,5 @@
 scores = {
-    "kimura" : 90,
+    "yamada" : 90,
     "takahashi" : 100,
     "yamamoto" : 70,
     "tanaka" : 85,
